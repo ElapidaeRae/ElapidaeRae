@@ -9,8 +9,7 @@ I'm not that good at programming, but I certainly try.
 - 📫 How to reach me: Scream into the void
 #
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElapidaeRae&theme=transparent&layout=donut&langs_count=5" /></a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElapidaeRae&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 - 🔭 I’m currently working on getting an apprenticeship
