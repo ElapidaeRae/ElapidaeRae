@@ -1,8 +1,7 @@
 <h1 align="Center">Hello there</a></h1>
 I'm not that good at programming, but I certainly try.
 
-- I’m currently trying to learn how to use Godot
-- I am slowly getting better at pixel art, 3D modeling and making music
+- I am slowly getting better at pixel art and 3D modeling
 - 📫 How to reach me: Scream into the void
 <!--
 **ElapidaeRae/ElapidaeRae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
