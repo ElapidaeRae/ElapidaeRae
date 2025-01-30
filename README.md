@@ -1,19 +1,20 @@
-<h1 align="Center">Hello there</a></h1>
+<h1 align="Center">Hi, I'm Rae</h1>
 I'm not that good at programming, but I certainly try.
+
+## Skills
+
+[![Website Skills](https://skillicons.dev/icons?i=js,ts,html,svelte,tailwind,py,prisma,sqlite&perline=5)](https://skillicons.dev)
 
 - I am slowly getting better at pixel art and 3D modeling
 - 📫 How to reach me: Scream into the void
+#
+
+<a href="https://github.com/ElapidaeRae/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElapidaeRae&theme=transparent&layout=donut&langs_count=5" /></a>
+
 <!--
-**ElapidaeRae/ElapidaeRae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on getting an apprenticeship
 
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/they 🏳️‍⚧️
+- ⚡ Fun fact: I do not like talking much about myself
 -->
