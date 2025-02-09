@@ -3,7 +3,7 @@ I'm not that good at programming, but I certainly try.
 
 ## Skills
 
-[![Website Skills](https://skillicons.dev/icons?i=js,ts,html,svelte,tailwind,py,prisma,sqlite&perline=5)](https://skillicons.dev)
+[![Website Skills](https://skillicons.dev/icons?i=js,ts,html,svelte,tailwind,py,prisma,sqlite&perline=4)](https://skillicons.dev)
 
 - I am slowly getting better at pixel art and 3D modeling
 - 📫 How to reach me: Scream into the void
